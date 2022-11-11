@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Василий\source\repos\lba5\lba5\Source.cpp(34,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lba5.vcxproj -> C:\Users\Василий\source\repos\lba5\x64\Debug\lba5.exe
